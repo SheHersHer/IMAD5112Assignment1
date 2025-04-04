@@ -1,1 +1,2 @@
-
+IMAD5112 Assignment 1 
+this preview is about an app that was created and has to function (food app) that has a user interface , input - time of day and can display suggesions and a reset button that , and it contains meal suggestions like morning , mid -morning , afternoon and dinner ,and it can display errors if made . it is an app for odering food and i have made it easy so when you put an input button it display a suggested meal of your kind depending on the time of your day .
